@@ -2,6 +2,8 @@
 
 [Udemy link](udemy.com/course/machinelearning)
 
+Get your Google Colab Notebooks [here](https://drive.google.com/drive/folders/1OFNnrHRZPZ3unWdErjLHod8Ibv2FfG1d?usp=sharing) and Course Datasets [here](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/Machine-Learning-A-Z-Codes-Datasets.zip). You can also browse the course slides [here](https://online.fliphtml5.com/grdgl/hfrm/).
+
 Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.
 
 This course has been designed by a Data Scientist and a Machine Learning expert so that we can share our knowledge and help you learn complex theory, algorithms, and coding libraries in a simple way.
