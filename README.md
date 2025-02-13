@@ -33,11 +33,11 @@ Moreover, the course is packed with practical exercises that are based on real-l
 
 And last but not least, this course includes both Python and R code templates which you can download and use on your own projects.
 
-## Setup enviroment
+## Setup environment
 There is a [.bat file](setup_venv.bat) you can run to:
 - Create the virtual environment
 - Activate the venv
 - Upgrade pip
 - Install the [dependencies](requirements.txt)
 
-**Be sure you have the venv activate before run the code.**
+**Be sure you have the venv activated before running the code.**
