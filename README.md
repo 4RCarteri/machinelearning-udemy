@@ -32,3 +32,12 @@ Each section inside each part is independent. So you can either take the whole c
 Moreover, the course is packed with practical exercises that are based on real-life case studies. So not only will you learn the theory, but you will also get lots of hands-on practice building your own models.
 
 And last but not least, this course includes both Python and R code templates which you can download and use on your own projects.
+
+## Setup enviroment
+There is a [.bat file](setup_venv.bat) you can run to:
+- Create the virtual environment
+- Activate the venv
+- Upgrade pip
+- Install the [dependencies](requirements.txt)
+
+**Be sure you have the venv activate before run the code.**
